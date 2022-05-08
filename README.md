@@ -1,6 +1,6 @@
 
 # **Final Project - Data Science Concordia**
-## **Time-Series Analysis with Python - Statistics, Predictions and GUIs**
+## **Time-Series Analysis with Python - Graphical User Interfaces**
 
 #### by Sérgio Pereira, April 2022
 Graphical User Interfaces for Time-Series Analysis (including Descriptive Statistics, Spectral Analysis and Predictive modelling with different models) 
