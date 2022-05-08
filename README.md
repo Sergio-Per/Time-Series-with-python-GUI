@@ -1,5 +1,5 @@
 
-# **Final Project - Data Science Concordia**
+### **Final Project - Data Science Concordia**
 ## **Time-Series Analysis with Python - Graphical User Interfaces**
 
 #### by Sérgio Pereira, April 2022
