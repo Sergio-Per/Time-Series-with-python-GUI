@@ -10,4 +10,4 @@ This notebook is expected to have some regular development at least for two reas
 
 ![alt text](https://github.com/Sergio-Per/Time-Series-GUI/blob/main/GUI%201.png)
 
-![alt text](https://github.com/Sergio-Per/Time-Series-GUI/blob/main/GUI%201.png)
+![alt text](https://github.com/Sergio-Per/Time-Series-GUI/blob/main/GUI%202.png)
