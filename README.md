@@ -22,3 +22,10 @@ This notebook is expected to have some regular development at least for two reas
 ![alt text](https://github.com/Sergio-Per/Time-Series-GUI/blob/main/GUI%20Fourier.png)
 
 # **4. Time series forecasting/Machine Learning**
+
+The forecasting process consists of predicting future values of a time series, either by modeling the series based on its previously observed patterns (autoregressive) or by using other external variables. The former approach is to be adopted with the univariate BC measurements.
+
+Three different models are briefly explored: ARIMA/SARIMAX as well as Random Forest and Lasso regressors were used to create forecasters, including grid search with backtesting (cross-validation method applied to previous periods) to identify the best combination of lags and hyperparameters for the models.
+In the following subsections each model is trained, and the best combination of parameters is selected and presented. The predictions can be computed and visualized with these best parameters or other values can be selected with the predictions being updated accordingly.
+
+Briefly, Lasso is a Linear Model trained with L1 regularization and it estimates sparse coefficients. The alpha parameter controls the degree of sparsity of the estimated coefficients. A random forest is a meta estimator that fits a number of classifying decision trees on various sub-samples of the dataset and uses averaging to improve the predictive accuracy and control over-fitting. The sub-sample size is controlled with the max_samples parameter if bootstrap=True (default), otherwise the whole dataset is used to build each tree. SARIMAX (Seasonal Auto-Regressive Integrated Moving Average with eXogenous factors) is an extension of the ARIMA class of models. ARIMA models compose 2 parts: the autoregressive term (AR) and the moving-average term (MA)
