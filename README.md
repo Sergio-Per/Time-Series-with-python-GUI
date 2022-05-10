@@ -4,7 +4,7 @@
 
 #### by Sérgio Pereira, April 2022 - Final Project - Data Science, Concordia University
 
-Graphical User Interfaces coded with python for Time-Series Analysis 
+Ensemble of Graphical User Interfaces, coded with python, for Time-Series applications 
 
 - Descriptive Statistics 
 - comprehensive set of statistical parameters
