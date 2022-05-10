@@ -1,6 +1,6 @@
 
 
-## **Time-Series Analysis with Python - Graphical User Interfaces**
+## **Time-Series Analysis with Python and Graphical User Interfaces**
 
 #### by Sérgio Pereira, April 2022 - Final Project - Data Science, Concordia University
 Graphical User Interfaces for Time-Series Analysis (including Descriptive Statistics, Spectral Analysis and Predictive modelling with different models) 
