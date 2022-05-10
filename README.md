@@ -3,7 +3,20 @@
 ## **Time-Series Analysis with Python and Graphical User Interfaces**
 
 #### by Sérgio Pereira, April 2022 - Final Project - Data Science, Concordia University
-Graphical User Interfaces for Time-Series Analysis (including Descriptive Statistics, Spectral Analysis and Predictive modelling with different models) 
+
+Graphical User Interfaces coded with python for Time-Series Analysis 
+
+- Descriptive Statistics 
+- comprehensive set of statistical parameters
+- Autocorrelation
+- Stationarity
+- Resampling
+- Smoothing
+- Spectral Analysis
+- FFT
+- High-Pass and Low-Pass filters 
+- Predictive modelling with Grid Search
+- ARIMA/SARIMAX, Random Forest, Lasso (eventually, other regression models can be implemented) 
 
 A time-series is used in this project to code in python and explore a comprehensive set of statistical analysis, modeling, and prediction tools. These, combined with Interactive GUIs, allow the user to perform different actions on the data. For example, the user can select time periods or specific days and statistical parameters are computed and visualized; in the predictive models changes in hyperparameters are shown in the prediction curve plotted.
 
