@@ -1,6 +1,6 @@
 
 
-## **Time-Series Analysis with Python and Graphical User Interfaces**
+## **Time-Series with Python and Graphical User Interfaces**
 
 #### by Sérgio Pereira, April 2022 - Final Project - Data Science, Concordia University
 
