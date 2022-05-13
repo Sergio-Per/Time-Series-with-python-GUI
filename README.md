@@ -62,5 +62,8 @@ Briefly, Lasso is a Linear Model trained with L1 regularization and it estimates
 ![alt text](https://github.com/Sergio-Per/Time-Series-with-python-GUI/blob/main/Lasso.jpg)
 
 ## 4.3. Parameter grid search and prediction with ARIMA/SARIMAX models
+(p,d,q) - order of the model for the number of AR parameters, differences, and MA parameters.
+(P,D,Q,s) order of the seasonal component of the model for the AR parameters, differences, MA parameters, and periodicity.
+These parameters can be changed and the prediction is updated in the plot.
 
 ![alt text](https://github.com/Sergio-Per/Time-Series-with-python-GUI/blob/main/Sarimax.jpg)
