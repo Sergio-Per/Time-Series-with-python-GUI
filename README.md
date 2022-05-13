@@ -36,9 +36,11 @@ This notebook is expected to have some regular development at least for two reas
 ![alt text](https://github.com/Sergio-Per/Time-Series-GUI/blob/main/GUI%202.png)
 
 # **3. Frequency Domain, Spectral Analysis, FFT, High-Pass/Low-Pass filters**
-
+![alt text](https://github.com/Sergio-Per/Time-Series-with-python-GUI/blob/main/img_Fourier1.jpg)
 ![alt text](https://github.com/Sergio-Per/Time-Series-GUI/blob/main/GUI%20Filters.png)
 
+
+![alt text](https://github.com/Sergio-Per/Time-Series-with-python-GUI/blob/main/img_Filters.jpg)
 ![alt text](https://github.com/Sergio-Per/Time-Series-GUI/blob/main/GUI%20Fourier.png)
 
 # **4. Time series forecasting/Machine Learning**
