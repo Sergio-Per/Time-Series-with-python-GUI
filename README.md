@@ -31,6 +31,8 @@ This notebook is expected to have some regular development at least for two reas
 
 # **2. Autocorrelation, Stationarity, Resampling**
 
+![alt text](https://github.com/Sergio-Per/Time-Series-with-python-GUI/blob/main/img_analysis.jpg)
+
 ![alt text](https://github.com/Sergio-Per/Time-Series-GUI/blob/main/GUI%202.png)
 
 # **3. Frequency Domain, Spectral Analysis, FFT, High-Pass/Low-Pass filters**
