@@ -54,4 +54,13 @@ Briefly, Lasso is a Linear Model trained with L1 regularization and it estimates
 
 ## 4.1. Parameter grid search and prediction with Random Forest Regressor
 
-![alt text](https://github.com/Sergio-Per/Time-Series-GUI/blob/main/GUI%20Filters.png)
+![alt text](https://github.com/Sergio-Per/Time-Series-with-python-GUI/blob/main/Random%20Forest.jpg)
+
+
+## 4.2. Parameter grid search and prediction with Lasso model
+
+![alt text](https://github.com/Sergio-Per/Time-Series-with-python-GUI/blob/main/Lasso.jpg)
+
+## 4.3. Parameter grid search and prediction with ARIMA/SARIMAX models
+
+![alt text](https://github.com/Sergio-Per/Time-Series-with-python-GUI/blob/main/Sarimax.jpg)
