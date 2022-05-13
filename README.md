@@ -28,6 +28,7 @@ This notebook is expected to have some regular development at least for two reas
 
 ![alt text](https://github.com/Sergio-Per/Time-Series-GUI/blob/main/GUI%201.png)
 
+
 # **2. Autocorrelation, Stationarity, Resampling**
 
 ![alt text](https://github.com/Sergio-Per/Time-Series-GUI/blob/main/GUI%202.png)
