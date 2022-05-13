@@ -51,3 +51,7 @@ Three different models are briefly explored: ARIMA/SARIMAX as well as Random For
 In the following subsections each model is trained, and the best combination of parameters is selected and presented. The predictions can be computed and visualized with these best parameters or other values can be selected with the predictions being updated accordingly.
 
 Briefly, Lasso is a Linear Model trained with L1 regularization and it estimates sparse coefficients. The alpha parameter controls the degree of sparsity of the estimated coefficients. A random forest is a meta estimator that fits a number of classifying decision trees on various sub-samples of the dataset and uses averaging to improve the predictive accuracy and control over-fitting. The sub-sample size is controlled with the max_samples parameter if bootstrap=True (default), otherwise the whole dataset is used to build each tree. SARIMAX (Seasonal Auto-Regressive Integrated Moving Average with eXogenous factors) is an extension of the ARIMA class of models. ARIMA models compose 2 parts: the autoregressive term (AR) and the moving-average term (MA)
+
+## 4.1. Parameter grid search and prediction with Random Forest Regressor
+
+![alt text](https://github.com/Sergio-Per/Time-Series-GUI/blob/main/GUI%20Filters.png)
